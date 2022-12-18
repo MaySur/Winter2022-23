@@ -2,9 +2,8 @@
 
 ## 1.  Install: 
 
-```
-[RUST LINK](https://www.rust-lang.org/tools/install)
-```
+*[RUST LINK](https://www.rust-lang.org/tools/install)
+
 ***
 
 ## 2. Create Django Project:
